@@ -1,0 +1,23 @@
+{
+  "name": "sticky-nav",
+  "version": "1.0.0",
+  "description": "## Under Construction",
+  "main": "index.html, index-F.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "static -H \"{\\\"Cache-Control\\\": \\\"no-cache, must-revalidate\\\"}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/argenis0409/Sticky-nav.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/argenis0409/Sticky-nav/issues"
+  },
+  "homepage": "https://github.com/argenis0409/Sticky-nav#readme",
+  "dependencies": {
+    "node-static": "^0.7.11"
+  }
+}
