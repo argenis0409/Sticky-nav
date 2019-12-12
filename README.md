@@ -10,5 +10,5 @@ npm install
 npm start
 ```
 ## General Info
-Once you run the commands above, open the project in your browser.
+Once you run the commands above, you should see something like this http://127.0.0.1:8080 click it to open the project.
 To see the functionality of the project scroll down.
